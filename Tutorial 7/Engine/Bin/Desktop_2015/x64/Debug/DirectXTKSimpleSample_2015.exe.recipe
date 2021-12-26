@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe</ProjectOutputs>
+  <ContentFiles>C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\colour_ps.cso;C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\colour_vs.cso;C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\light_ps.cso;C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\light_vs.cso;C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\SkyboxEffect_PS.cso;C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\SkyboxEffect_VS.cso</ContentFiles>
+  <SatelliteDlls></SatelliteDlls>
+  <NonRecipeFileRefs></NonRecipeFileRefs>
+</Project>

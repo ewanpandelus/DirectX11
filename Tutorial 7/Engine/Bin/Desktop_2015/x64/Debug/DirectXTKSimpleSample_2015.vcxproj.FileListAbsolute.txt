@@ -1,0 +1,8 @@
+C:\Users\Ewan\Downloads\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\Ewan\Downloads\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb
+C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.vcxproj.CopyComplete
+C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
+C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.pdb
+C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\xapobaseredist.pdb
+C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.pdb
+C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\xaudio2_9redist.dll

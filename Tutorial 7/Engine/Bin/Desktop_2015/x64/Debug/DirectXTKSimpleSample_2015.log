@@ -1,0 +1,3 @@
+﻿  Game.cpp
+C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\Game.cpp(136,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DirectXTKSimpleSample_2015.vcxproj -> C:\Users\Ewan\OneDrive\Documents\Games Programming Masters\Programming For Games\Tutorial 7\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
